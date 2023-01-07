@@ -13,6 +13,8 @@ function App() {
         <a>massimo</a>
         <a>Violet</a>
         <a>aidan</a>
+        <a>korbin</a>
+        <a>Brett is cool</a>
       </header>
     </div>
   );
