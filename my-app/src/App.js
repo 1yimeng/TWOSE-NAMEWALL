@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h2>University of Alberta Computer Engineering Club</h2>
         <h3> Leave your name here by typing in some code!! </h3>
-        <a style={{color: 'Pink'}}>yi meng was here</a>
+        <a style={{color: 'Pink'}}>yi meng</a>
         <a>luca</a>
         <a>massimo</a>
         <a>Violet</a>
